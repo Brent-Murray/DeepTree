@@ -3,9 +3,18 @@ This is the implementation of the preprocessing and modeling of [Tree speices pr
 
 This paper can be cited as:
 
-Murray, B. A., Coops, N. C., White, J. C., Dick, A., & Ragab, A. (2025). Tree species proportion prediction using airborne laser scanning and Sentinel-2 data within a deep learning based dual-stream data fusion approach. International Journal of Remote Sensing, 46(14), 5436–5464. https://doi.org/10.1080/01431161.2025.2521072
-
-
+```text
+@article{Murray2025TreeSP,
+  title={Tree species proportion prediction using airborne laser scanning and Sentinel-2 data within a deep learning based dual-stream data fusion approach},
+  author={Brent Murray and Nicholas C. Coops and Joanne C. White and Adam Dick and Ahmed Ragab},
+  journal={International Journal of Remote Sensing},
+  year={2025},
+  volume={46},
+  pages={5436 - 5464},
+  url={https://api.semanticscholar.org/CorpusID:279559010},
+  doi={https://doi.org/10.1080/01431161.2025.2521072}
+}
+```
 
 Contents
 ----
