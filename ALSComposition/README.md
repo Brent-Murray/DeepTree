@@ -8,6 +8,7 @@ Murray, B. A., Coops, N. C., Winiwarter, L., White, J. C., Dick, A., Barbeito, I
 
 Contents
 ----
+```text
 ├── ALSComposition/
 │   ├── augment/
 │   │   ├── __init__.py
@@ -27,3 +28,4 @@ Contents
 │   │   └── train.py
 │   ├── main.py
 │   └── README.md
+```
