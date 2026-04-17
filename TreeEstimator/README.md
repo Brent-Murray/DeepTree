@@ -3,8 +3,18 @@ This is the implementation of the preprocessing and modeling of [Individual tree
 
 This paper can be cited as:
 
-Murray, B. A., Coops, N. C., White, J. C., Dick, A., Barbeito, I., & Ragab, A. (2025). Individual tree species prediction using airborne laser scanning data and derived point-cloud metrics within a dual-stream deep learning approach. International Journal of Applied Earth Observation and Geoinformation, 144, 104877. https://doi.org/10.1016/j.jag.2025.104877
-
+```text
+@article{Murray2025IndividualTS,
+  title={Individual tree species prediction using airborne laser scanning data and derived point-cloud metrics within a dual-stream deep learning approach},
+  author={Brent Murray and Nicholas C. Coops and Joanne C. White and Adam Dick and Ignacio Barbeito and Ahmed Ragab},
+  journal={Int. J. Appl. Earth Obs. Geoinformation},
+  year={2025},
+  volume={144},
+  pages={104877},
+  url={https://api.semanticscholar.org/CorpusID:281619636},
+  doi={https://doi.org/10.1016/j.jag.2025.104877}
+}
+```
 
 Contents
 ----
