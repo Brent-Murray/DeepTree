@@ -1,4 +1,4 @@
-# PointAugment 
+# FusionComposition 
 This is the implementation of the preprocessing and modeling of [Tree speices proportion prediction using airborne laser scanning and Sentinel-2 data within a deep learning based dual-stream data fusion approach](https://doi.org/10.1080/01431161.2025.2521072).
 
 This paper can be cited as:
