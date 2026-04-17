@@ -14,9 +14,7 @@ Contents
 │   │   ├── DGCNN.py
 │   │   ├── KPConv.py
 │   │   ├── PointExtractor.py
-│   │   ├── PointTransformer-Copy1.py
 │   │   ├── PointTransformer.py
-│   │   ├── SpeciesEstimation-Copy1.py
 │   │   ├── SpeciesEstimation.py
 │   │   ├── SpeciesEstimationMetrics.py
 │   │   ├── SpeciesEstimationPoint.py
