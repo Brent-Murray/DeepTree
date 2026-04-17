@@ -1,4 +1,4 @@
-# PointAugment 
+# TreeEstimator
 This is the implementation of the preprocessing and modeling of [Individual tree species prediction using airborne laser scanning data and derived point-cloud metrics within a dual-stream deep learning approach](https://doi.org/10.1016/j.jag.2025.104877).
 
 This paper can be cited as:
