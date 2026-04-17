@@ -1,4 +1,4 @@
-# PointAugment 
+# ALSComposition
 This is the implementation of the preprocessing and modeling of [Estimating tree species composition from airborne laser scanning data using point-based deep learning models](https://www.sciencedirect.com/science/article/pii/S0924271623003453?via%3Dihub).
 
 This paper can be cited as:
