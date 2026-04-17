@@ -3,8 +3,16 @@ This is the implementation of the preprocessing and modeling of [Estimating tree
 
 This paper can be cited as:
 
-Murray, B. A., Coops, N. C., Winiwarter, L., White, J. C., Dick, A., Barbeito, I., & Ragab, A. (2024). Estimating tree species composition from airborne laser scanning data using point-based deep learning models. ISPRS Journal of Photogrammetry and Remote Sensing, 207, 282–297. https://doi.org/10.1016/j.isprsjprs.2023.12.008
-
+```text
+@article{Murray2024EstimatingTS,
+  title={Estimating tree species composition from airborne laser scanning data using point-based deep learning models},
+  author={Brent Murray and Nicholas C. Coops and Lukas Winiwarter and Joanne C. White and Adam Dick and Ignacio Barbeito and Ahmed Ragab},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:266711000},
+  doi={https://doi.org/10.1016/j.isprsjprs.2023.12.008}
+}
+```
 
 Contents
 ----
