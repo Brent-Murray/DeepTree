@@ -55,7 +55,7 @@ If you use this repository, please cite the corresponding publications:
 
 **LLPEstimator**
 ```text
-Will update upon acceptance of publication
+Will update upon acceptance of publication.
 ```
 
 **TreeEstimator**
@@ -73,4 +73,4 @@ Will update upon acceptance of publication
 ```
 
 ## Notes
-This repository is actively maintained and may evolve as additional experiments and studies are completed
+This repository is actively maintained and may evolve as additional experiments and studies are completed.
