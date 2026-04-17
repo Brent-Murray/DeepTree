@@ -17,9 +17,28 @@ Each folder includes code, data processing pipelines, and model implementations 
 
 ## Studies
 - **ALSComposition** - *Estimating tree species composition from airborne laser scanning data using point-based deep learning models*
+
+    → Description: Estimation of tree species composition from ALS point clouds using point-based deep learning, combining PointAugment GAN and DGCNN models.
+
+    → Publication: [https://doi.org/10.1016/j.isprsjprs.2023.12.008](https://doi.org/10.1016/j.isprsjprs.2023.12.008)
+    
 - **FusionComposition** - *Tree species proportion prediction using airborne laser scanning and Sentinel-2 data within a deep learning based dual-stream data fusion approach*
+
+    → Description: Dual-stream deep learning approach for fusing ALS point clouds and multitemporal Sentinel-2 imagery to estimate tree species proportions.
+
+    → Publication: [https://doi.org/10.1080/01431161.2025.2521072](https://doi.org/10.1080/01431161.2025.2521072)
+  
 - **LLPEstimator** - *Using weakly supervised deep learning to derive individual tree species and plot-level species composition from airborne laser scanning data*
+
+    → Description: Weakly supervised deep learning approach for individual tree species classification and plot-level composition estimation from ALS data.
+    
+    → Publication: 
+    
 - **TreeEstimator** - *Individual tree species prediction using airborne laser scanning data and derived point-cloud metrics within a dual-stream deep learning approach*
+
+    → Description: Dual-stream deep learning framework for individual tree species classification using ALS point clouds and point-cloud metrics.
+
+    → Publication: [https://doi.org/10.1016/j.jag.2025.104877](https://doi.org/10.1016/j.jag.2025.104877)
 
 ## Data
 Datasets are not included due to size and/or licensing constraints.
